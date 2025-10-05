@@ -305,15 +305,6 @@
 		"code": "DZD",
 		"name_plural": "Algerian dinars"
 	},
-	"EEK": {
-		"symbol": "Ekr",
-		"name": "Estonian Kroon",
-		"symbol_native": "kr",
-		"decimal_digits": 2,
-		"rounding": 0,
-		"code": "EEK",
-		"name_plural": "Estonian kroons"
-	},
 	"EGP": {
 		"symbol": "EGP",
 		"name": "Egyptian Pound",
@@ -403,15 +394,6 @@
 		"rounding": 0,
 		"code": "HNL",
 		"name_plural": "Honduran lempiras"
-	},
-	"HRK": {
-		"symbol": "kn",
-		"name": "Croatian Kuna",
-		"symbol_native": "kn",
-		"decimal_digits": 2,
-		"rounding": 0,
-		"code": "HRK",
-		"name_plural": "Croatian kunas"
 	},
 	"HUF": {
 		"symbol": "Ft",
@@ -574,24 +556,6 @@
 		"rounding": 0,
 		"code": "LKR",
 		"name_plural": "Sri Lankan rupees"
-	},
-	"LTL": {
-		"symbol": "Lt",
-		"name": "Lithuanian Litas",
-		"symbol_native": "Lt",
-		"decimal_digits": 2,
-		"rounding": 0,
-		"code": "LTL",
-		"name_plural": "Lithuanian litai"
-	},
-	"LVL": {
-		"symbol": "Ls",
-		"name": "Latvian Lats",
-		"symbol_native": "Ls",
-		"decimal_digits": 2,
-		"rounding": 0,
-		"code": "LVL",
-		"name_plural": "Latvian lati"
 	},
 	"LYD": {
 		"symbol": "LD",
@@ -1007,14 +971,14 @@
 		"code": "UZS",
 		"name_plural": "Uzbekistan som"
 	},
-	"VEF": {
-		"symbol": "Bs.F.",
-		"name": "Venezuelan Bolívar",
-		"symbol_native": "Bs.F.",
+	"VES": {
+		"symbol": "Bs.S.",
+		"name": "Venezuelan Bolívar Soberano",
+		"symbol_native": "Bs.S.",
 		"decimal_digits": 2,
 		"rounding": 0,
-		"code": "VEF",
-		"name_plural": "Venezuelan bolívars"
+		"code": "VES",
+		"name_plural": "Venezuelan bolívares soberanos"
 	},
 	"VND": {
 		"symbol": "₫",
@@ -1070,13 +1034,13 @@
 		"code": "ZAR",
 		"name_plural": "South African rand"
 	},
-	"ZMK": {
-		"symbol": "ZK",
+	"ZMW": {
+		"symbol": "K",
 		"name": "Zambian Kwacha",
-		"symbol_native": "ZK",
-		"decimal_digits": 0,
+		"symbol_native": "K",
+		"decimal_digits": 2,
 		"rounding": 0,
-		"code": "ZMK",
+		"code": "ZMW",
 		"name_plural": "Zambian kwachas"
 	},
 	"ZWL": {
